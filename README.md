@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABHINAV1418
+- 👋 Hi, I’m Abhinav Bhatt
 - 👀 I’m interested in competetive programming and artificial intelligence.
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on ...
