@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Bhatt
 - 👀 I’m interested in competetive programming and artificial intelligence.
 - 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an software internship roles
 - 📫 How to reach me abhinav.11911055@iiitsonepat.ac.in
 
 <!---
