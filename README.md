@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Bhatt
 - 👀 I’m interested in competetive programming and backend development.
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking for an software developer roles
+- 🌱 I’m currently doing internship on backend development.
+- 💞️ I’m looking for an software developer roles.
 - 📫 How to reach me bhatt1418abhinav@gamil.com
 
 <!---
